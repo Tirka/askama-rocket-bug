@@ -8,6 +8,7 @@ dependencies = [
  "askama_derive 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "askama_escape 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "askama_shared 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "rocket 0.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
